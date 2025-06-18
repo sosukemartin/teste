@@ -1,0 +1,17 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.card {
+  transition: transform 0.3s ease;
+}
+
+.card:hover {
+  transform: scale(1.02);
+}
+
+button.btn-success {
+  font-weight: bold;
+  padding: 6px 12px;
+  border-radius: 8px;
+}
